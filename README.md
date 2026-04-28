@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Sam from Belgium<br><br>- 🔭 I’m working as an Data Engineer at Clarebout Potatoes<br>- 📚 I'm currently learning lots about Kubernetes and Azure 🤯<br></p>
+<p align="left">I'm Sam from Belgium<br><br>- 🔭 I’m working as an Industry 4.0 Consultant at Mustry Solutions<br>- 📚 I'm currently learning lots about Kubernetes and Azure 🤯<br></p>
 
 ###
 
