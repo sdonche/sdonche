@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/samdonche/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sam.donche@mustrysolutions.com">
@@ -80,21 +80,31 @@ ask_me_about: [ Ignition/SCADA, IIoT, MQTT, containers, IaC ]
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sdonche?style=for-the-badge&logo=github&logoColor=white&color=0ba6df&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sdonche?style=for-the-badge&logo=github&logoColor=white&color=0ba6df&labelColor=1a1a2e" alt="Stars" />
+</p>
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sdonche&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=0BA6DF&title_color=0BA6DF" alt="Sam's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdonche&layout=compact&hide_border=true&theme=tokyonight&title_color=0BA6DF&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdonche&theme=tokyonight" alt="Profile details" width="80%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdonche&hide_border=true&theme=tokyonight&ring=0BA6DF&fire=0BA6DF&currStreakLabel=0BA6DF" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdonche&theme=tokyonight" alt="Top languages by repo" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sdonche&theme=tokyonight" alt="Most-committed languages" height="200" />
 </div>
 
-<!-- ─────────────────────────────  TROPHIES  ───────────────────────────── -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdonche&theme=tokyonight" alt="GitHub stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdonche&theme=tokyonight&utcOffset=1" alt="Productive time" height="200" />
+</div>
 
-## 🏆 Trophies
+<!-- ─────────────────────────────  ACTIVITY  ───────────────────────────── -->
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sdonche&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdonche&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=0ba6df&line=0ba6df&point=ffffff&area=true" alt="Contribution activity graph" width="95%" />
 </div>
 
 <!-- ─────────────────────────────  SNAKE  ───────────────────────────── -->
